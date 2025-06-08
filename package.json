@@ -1,0 +1,17 @@
+{
+  "name": "project-houze",
+  "source": "src/catalog.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.2",
+    "autoprefixer": "^10.4.21",
+    "editorconfig": "^2.0.1",
+    "parcel": "^2.15.2",
+    "stylelint": "^16.20.0",
+    "stylelint-config-standard-scss": "^15.0.1"
+  }
+}
