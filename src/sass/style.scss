@@ -1,4 +1,14 @@
 @forward "./blocks/page.scss";
-@forward "./blocks/header.scss";
-@forward "./blocks/main.scss";
-@forward "./blocks/footer.scss";
+@forward "./global/helpersVariables.scss";
+@forward "./blocks/page-header.scss";
+@forward "./blocks/main-navigation.scss";
+
+@forward "./blocks/logo.scss";
+@forward "./blocks/site-navigation.scss";
+@forward "./blocks/user-navigation-item.scss";
+@forward "./blocks/user-navigation.scss";
+@forward "./blocks/button.scss";
+@forward "./blocks/notification-badge.scss";
+@forward "./blocks/pagination.scss";
+@forward "./blocks/breadcrumbs.scss";
+@forward "./blocks/page-footer.scss";
